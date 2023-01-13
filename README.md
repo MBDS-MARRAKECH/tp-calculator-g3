@@ -1,3 +1,14 @@
+Réalisé par :
+Amine Aboutaj
+Ezzibari Oumayma
+Sara AIT ELMAHJOUB
+LOZAD ACHRAF
+CHEMLAL ELMEHDI
+HAMZA JANATE
+OULOUDA YOUSSEF
+ELHARIRI ILYAS
+
+
 # Améliorer une calculette
 Dans ce TP, vous allez reprendre une application existante et l'améliorer : 
 1) En rendant l'interface adaptée à toutes les résolutions d'écrans d'iPhone
