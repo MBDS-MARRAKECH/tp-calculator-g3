@@ -1,12 +1,12 @@
-Réalisé par :
-Amine Aboutaj
-Ezzibari Oumayma
-Sara AIT ELMAHJOUB
-LOZAD ACHRAF
-CHEMLAL ELMEHDI
-HAMZA JANATE
-OULOUDA YOUSSEF
-ELHARIRI ILYAS
+# Réalisé par :
+- Amine Aboutaj
+- Ezzibari Oumayma
+- Sara AIT ELMAHJOUB
+- LOZAD ACHRAF
+- CHEMLAL ELMEHDI
+- HAMZA JANATE
+- OULOUDA YOUSSEF
+- ELHARIRI ILYAS
 
 
 # Améliorer une calculette
