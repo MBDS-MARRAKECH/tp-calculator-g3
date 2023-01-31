@@ -29,5 +29,6 @@ Dans cette version de l'application, seule les opérations d'additions et de sou
 - Effacer un élément dans la chaîne d'opération (de la droite vers la gauche) 
 - Réinitialiser toute la chaîne d'opération
 
-
+#NB : On a fait une erreur lorsqu'on a essayé de déposer notre projet dans le git :  
+le Xcode a été avec le compte de git d'un etudiant medhammdi  , mais il n'est pas de notre groupe , quand j'essaie de commiter en machine virtuelle il se commit toujours avec son nom , et on a pas trouver comment changer le compte de git
 
